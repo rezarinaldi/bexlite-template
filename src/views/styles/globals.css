@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-4xl font-thin;
+  }
+  h2 {
+    @apply text-3xl font-thin;
+  }
+  h3 {
+    @apply text-2xl font-thin;
+  }
+  button {
+    @apply p-2 block border w-full;
+  }
+  input {
+    @apply p-2 block border w-full;
+  }
+}
