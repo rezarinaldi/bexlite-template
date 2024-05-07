@@ -1,6 +1,6 @@
 {
   "name": "bexlite-template",
-  "version": "0.1.00",
+  "version": "0.1.0",
   "scripts": {
     "tw:run": "bunx tailwindcss -i ./src/views/styles/globals.css -o ./public/globals.css --watch",
     "tw:build": "bunx tailwindcss -i ./src/views/styles/globals.css -o ./public/globals.css",
