@@ -1,7 +1,7 @@
 # ✨ BEXLite Template
 
 > [!NOTE]
-> It's a template for basic BEXLite Stack. It's including [Bun](https://bun.sh/), [Elysia](https://elysiajs.com/), [HTMX](https://htmx.org/), and [SQLite](https://www.sqlite.org/)/. Already include setup [Tailwind CSS](https://tailwindcss.com/).
+> It's a template for basic BEXLite Stack. It's including [Bun](https://bun.sh/), [Elysia](https://elysiajs.com/), [HTMX](https://htmx.org/), and [SQLite](https://www.sqlite.org/). Already include setup [Tailwind CSS](https://tailwindcss.com/).
 
 ## How to start:
 
