@@ -36,3 +36,5 @@ bun start
 ## Reference
 
 [![bexlite-base-template - github.com](https://github-readme-stats.vercel.app/api/pin?username=bexlite-stack&repo=bexlite-base-template&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=161729)](https://github.com/bexlite-stack/bexlite-base-template)
+
+### Author: [Indra Zulfi Mushoddaq](https://github.com/indrazm)
