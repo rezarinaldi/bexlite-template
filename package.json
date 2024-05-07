@@ -3,6 +3,7 @@
   "version": "0.1.00",
   "scripts": {
     "tw:run": "bunx tailwindcss -i ./src/views/styles/globals.css -o ./public/globals.css --watch",
+    "tw:build": "bunx tailwindcss -i ./src/views/styles/globals.css -o ./public/globals.css",
     "dev": "bun run --watch src/index.ts",
     "start": "concurrently \"bun tw:run\" \"bun dev\""
   },
