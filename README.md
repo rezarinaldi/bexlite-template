@@ -8,9 +8,9 @@
 1. Clone the project.
 
 ```bash
-git clone https://github.com/bexlite-stack/bexlite-base-template.git yourProjectName
+git clone https://github.com/rezarinaldi/bexlite-template.git yourProjectName
 # using ssh
-git clone git@github.com:bexlite-stack/bexlite-base-template.git yourProjectName
+git clone git@github.com:rezarinaldi/bexlite-template.git yourProjectName
 ```
 
 2. Go into project folder.
